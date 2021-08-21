@@ -1,5 +1,3 @@
-# See this page on this link -->  [http://localhost:3000](http://localhost:3000)
-
 
 # Getting Started with Create React App
 
