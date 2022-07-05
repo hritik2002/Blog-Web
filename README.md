@@ -1,2 +1,2 @@
-# Check out the deployed page at https://thirsty-goldberg-c49e17.netlify.app/
+> Check hosted site at https://thirsty-goldberg-c49e17.netlify.app/
 
